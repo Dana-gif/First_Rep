@@ -6,6 +6,8 @@ injera
 doro
 miser 
 
+shiro
+beyahto
 
 
 Thank you 
